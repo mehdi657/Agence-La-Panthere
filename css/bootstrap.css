@@ -8075,3 +8075,12 @@ button.close {
         display: none !important
     }
 }
+
+blockquote {
+    width: 60%;
+    margin: 0 auto;
+}
+
+.tailtitre {
+    font-size: 2em;
+}
